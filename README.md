@@ -32,8 +32,12 @@ FPS = 10.6
 
 Accuracy = 98.54 %
 
+![alt text](https://github.com/Uzair-Khattak/PytorchCLassification-onJetson/blob/main/part1.jpg)
+
 Asus gl702VM (My laptop):
 --------
 FPS = 110
 
 Accuracy = 98.54 %
+
+![alt text](https://github.com/Uzair-Khattak/PytorchCLassification-onJetson/blob/main/2nd.jpg)
