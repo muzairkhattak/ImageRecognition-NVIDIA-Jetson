@@ -36,7 +36,7 @@ Accuracy = 98.54 %
 
 Asus gl702VM (My laptop):
 --------
-FPS = 110
+FPS = 107
 
 Accuracy = 98.54 %
 
