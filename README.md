@@ -29,9 +29,11 @@ The results acheived as listed below:
 Jetson Nano: 
 --------
 FPS = 10.6
+
 Accuracy = 98.54 %
 
 Asus gl702VM (My laptop):
 --------
 FPS = 110
+
 Accuracy = 98.54 %
