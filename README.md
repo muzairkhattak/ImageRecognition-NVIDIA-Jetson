@@ -1,4 +1,4 @@
-# Classification_models_Pytorch_2_tensorrt
+# Classfication Model on Jetson 
 By using the performence metrics like accuracy,total inference time and FPS we will compare the Pytorch NN model of resnet50 on the Nvidia Jetson Nano and the same Pytorch model with same training weights on the Asus GL-702VM laptop in which GTX 1060 has been installed. We will see that the performence interms of speed and FPS is lower on Nano but the accruracy is exactly same on both machines.
 In this repo, I will add help regarding configuring the Jetson Nano and installing the Pytorch framework.
 So before using the code files and getting help from this repository, it is necessary to have a Jeston device which has been fully set-up and one must have following things installed and ready:
@@ -24,7 +24,7 @@ For using this repo with your dataset, the dataset must be in the ImageNet style
 
 RESULTS/COMPARISION
 -------------
-In the following results images, the first one shows the performence metrics with Pytorch Model on Jetson Nano (4GB), while the second image shows the results acheived using my laptop GPU (Asus GL702VM)
+The results acheived as listed below:
 
 Jetson Nano: 
 --------
@@ -32,5 +32,6 @@ FPS = 10.6
 Accuracy = 98.54 %
 
 Asus gl702VM (My laptop):
+--------
 FPS = 110
 Accuracy = 98.54 %
