@@ -7,7 +7,7 @@ So before using the code files and getting help from this repository, it is nece
 
 -->After flashing, first thing to install is the pip3 tool, which will be used to install Python Pakages later on (Use this command in terminal "sudo apt-get install python3-pip" ).
 
--->By having your device flashed, you will have installed the linux, TensorRT and some other related libraries for CV as well (like OPENCV, PIL etc), unfortunately Pytorch and torchvision doesn't come preinstalled with flashing. So we will first need to download and install the Pytorch specifically for JETSON DEVICES ( please don't use the normal installation method that we use in normal PC's for Pytorch). We will need to follow the steps provided by Nvidia offical Developers (yes its DUSTIN :P ). Download using this link https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-7-0-now-available/72048. I downloaded the version 1.4 for Pytorch for the experiments.
+-->By having your device flashed, you will have installed the linux, TensorRT and some other related libraries for CV as well (like OPENCV, PIL etc), unfortunately Pytorch and torchvision doesn't come preinstalled with flashing. So we will first need to download and install the Pytorch specifically for JETSON DEVICES ( please don't use the normal installation method that we use in normal PC's for Pytorch). We will need to follow the steps provided by Nvidia offical Developers (yes its DUSTIN :P ). Follow the link https://forums.developer.nvidia.com/t/pytorch-for-jetson-version-1-7-0-now-available/72048 and choose the PyTorch version (I used version 1.4 for Pytorch for the experiments) and follow the installation commands and run those commands on your terminal.
 
 # Requirements
   Pytorch
